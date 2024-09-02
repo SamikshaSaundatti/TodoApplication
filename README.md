@@ -1,1 +1,2 @@
 # TodoApplication
+The provided code is a full-stack to-do list application built using Node.js, Express.js, React.js, and MongoDB. The backend, written in Node.js and Express.js, handles server-side logic, database interactions, and API endpoints. The frontend, built with React.js, creates the user interface and interacts with the backend API. The application allows users to add, edit, and delete tasks, which are stored in a MongoDB database. 
